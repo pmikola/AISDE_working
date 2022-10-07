@@ -1,0 +1,433 @@
+/home/pmikola1/aisde_l2/Cwicz23/cmake-build-debug/Cwicz23
+
+LICZNOSC = 2
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            2e-06
+Algorytm: 
+   porownania: 1
+   kopiowania: 0
+Implementacja: 
+   porownania: 4
+   dodawania:  4
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 4
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            1e-06
+Algorytm: 
+   porownania: 3
+   kopiowania: 0
+Implementacja: 
+   porownania: 10
+   dodawania:  10
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 8
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            1e-06
+Algorytm: 
+   porownania: 7
+   kopiowania: 0
+Implementacja: 
+   porownania: 22
+   dodawania:  22
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 16
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            1e-06
+Algorytm: 
+   porownania: 15
+   kopiowania: 0
+Implementacja: 
+   porownania: 46
+   dodawania:  46
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 32
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            2e-06
+Algorytm: 
+   porownania: 31
+   kopiowania: 0
+Implementacja: 
+   porownania: 94
+   dodawania:  94
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 64
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            3e-06
+Algorytm: 
+   porownania: 63
+   kopiowania: 0
+Implementacja: 
+   porownania: 190
+   dodawania:  190
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 128
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            6e-06
+Algorytm: 
+   porownania: 127
+   kopiowania: 0
+Implementacja: 
+   porownania: 382
+   dodawania:  382
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 256
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            1e-05
+Algorytm: 
+   porownania: 255
+   kopiowania: 0
+Implementacja: 
+   porownania: 766
+   dodawania:  766
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 512
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            5.3e-05
+Algorytm: 
+   porownania: 511
+   kopiowania: 0
+Implementacja: 
+   porownania: 1534
+   dodawania:  1534
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 1024
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            3.9e-05
+Algorytm: 
+   porownania: 1023
+   kopiowania: 0
+Implementacja: 
+   porownania: 3070
+   dodawania:  3070
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 2048
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            7.7e-05
+Algorytm: 
+   porownania: 2047
+   kopiowania: 0
+Implementacja: 
+   porownania: 6142
+   dodawania:  6142
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 4096
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            0.000154
+Algorytm: 
+   porownania: 4095
+   kopiowania: 0
+Implementacja: 
+   porownania: 12286
+   dodawania:  12286
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 8192
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            0.000302
+Algorytm: 
+   porownania: 8191
+   kopiowania: 0
+Implementacja: 
+   porownania: 24574
+   dodawania:  24574
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 16384
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            0.000626
+Algorytm: 
+   porownania: 16383
+   kopiowania: 0
+Implementacja: 
+   porownania: 49150
+   dodawania:  49150
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 32768
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            0.002552
+Algorytm: 
+   porownania: 32767
+   kopiowania: 0
+Implementacja: 
+   porownania: 98302
+   dodawania:  98302
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 65536
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            0.002778
+Algorytm: 
+   porownania: 65535
+   kopiowania: 0
+Implementacja: 
+   porownania: 196606
+   dodawania:  196606
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 131072
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            0.005115
+Algorytm: 
+   porownania: 131071
+   kopiowania: 0
+Implementacja: 
+   porownania: 393214
+   dodawania:  393214
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 262144
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            0.010299
+Algorytm: 
+   porownania: 262143
+   kopiowania: 0
+Implementacja: 
+   porownania: 786430
+   dodawania:  786430
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 524288
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            0.020923
+Algorytm: 
+   porownania: 524287
+   kopiowania: 0
+Implementacja: 
+   porownania: 1572862
+   dodawania:  1572862
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 1048576
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            0.043087
+Algorytm: 
+   porownania: 1048575
+   kopiowania: 0
+Implementacja: 
+   porownania: 3145726
+   dodawania:  3145726
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 2097152
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            0.080212
+Algorytm: 
+   porownania: 2097151
+   kopiowania: 0
+Implementacja: 
+   porownania: 6291454
+   dodawania:  6291454
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 4194304
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            0.157199
+Algorytm: 
+   porownania: 4194303
+   kopiowania: 0
+Implementacja: 
+   porownania: 12582910
+   dodawania:  12582910
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 8388608
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            0.309558
+Algorytm: 
+   porownania: 8388607
+   kopiowania: 0
+Implementacja: 
+   porownania: 25165822
+   dodawania:  25165822
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 16777216
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            0.613642
+Algorytm: 
+   porownania: 16777215
+   kopiowania: 0
+Implementacja: 
+   porownania: 50331646
+   dodawania:  50331646
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 33554432
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            1.32701
+Algorytm: 
+   porownania: 33554431
+   kopiowania: 0
+Implementacja: 
+   porownania: 100663294
+   dodawania:  100663294
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 67108864
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            2.47001
+Algorytm: 
+   porownania: 67108863
+   kopiowania: 0
+Implementacja: 
+   porownania: 201326590
+   dodawania:  201326590
+   mnozenia:   0
+   dzielenia:  0
+
+LICZNOSC = 134217728
+
+
+
+Badanie algorytmów sortowania
+
+Czas wykonania:                            4.90689
+Algorytm: 
+   porownania: 134217727
+   kopiowania: 0
+Implementacja: 
+   porownania: 402653182
+   dodawania:  402653182
+   mnozenia:   0
+   dzielenia:  0

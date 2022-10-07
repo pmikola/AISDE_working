@@ -1,0 +1,65 @@
+cmake_minimum_required(VERSION 3.15)
+project(Cwicz23)
+
+set(CMAKE_CXX_STANDARD 14)
+
+include_directories(src)
+include_directories(src/algorytmy_drzewa)
+include_directories(src/algorytmy_drzewa/bst)
+include_directories(src/algorytmy_drzewa/huffman)
+include_directories(src/algorytmy_drzewa/sortowanie_kopcowe)
+include_directories(src/algorytmy_drzewa/sortowanie_turniejowe)
+include_directories(src/algorytmy_sort_std)
+include_directories(src/algorytmy_sort_std/babelkowe)
+include_directories(src/algorytmy_sort_std/scalanie)
+include_directories(src/algorytmy_sort_std/selekcja)
+include_directories(src/algorytmy_sort_std/shell)
+include_directories(src/algorytmy_sort_std/szybkie)
+include_directories(src/algorytmy_sort_std/wstawianie)
+include_directories(src/algorytmy_sort_std/zliczanie)
+include_directories(src/narzedzia)
+include_directories(src/struktury)
+include_directories(src/struktury/tablica)
+
+add_executable(Cwicz23
+        src/algorytmy_drzewa/bst/bst.h
+        src/algorytmy_drzewa/huffman/huffman.cpp
+        src/algorytmy_drzewa/huffman/huffman.h
+        src/algorytmy_drzewa/huffman/huffmanData.h
+        src/algorytmy_drzewa/sortowanie_kopcowe/kopiec.h
+        src/algorytmy_drzewa/sortowanie_kopcowe/kopiec.hpp
+        src/algorytmy_drzewa/sortowanie_kopcowe/kopiecINT.cpp
+        src/algorytmy_drzewa/sortowanie_turniejowe/turniej.h
+        src/algorytmy_drzewa/sortowanie_turniejowe/turniej.hpp
+        src/algorytmy_sort_std/babelkowe/babelkowe.h
+        src/algorytmy_sort_std/babelkowe/babelkowe.hpp
+        src/algorytmy_sort_std/scalanie/scalanie.h
+        src/algorytmy_sort_std/scalanie/scalanie.hpp
+        src/algorytmy_sort_std/selekcja/selekcja.h
+        src/algorytmy_sort_std/selekcja/selekcja.hpp
+        src/algorytmy_sort_std/shell/generator.h
+        src/algorytmy_sort_std/shell/wstawianieShell.h
+        src/algorytmy_sort_std/shell/wstawianieShell.hpp
+        src/algorytmy_sort_std/szybkie/szybkie.h
+        src/algorytmy_sort_std/szybkie/szybkie.hpp
+        src/algorytmy_sort_std/wstawianie/wstawianie.h
+        src/algorytmy_sort_std/wstawianie/wstawianie.hpp
+        src/algorytmy_sort_std/zliczanie/zliczanie.h
+        src/algorytmy_sort_std/zliczanie/zliczanie.hpp
+        src/algorytmy_sort_std/sortowanie.h
+        src/algorytmy_sort_std/sortowanie.hpp
+        src/narzedzia/error.h
+        src/narzedzia/iterator.h
+        src/narzedzia/statystyka.h
+        src/narzedzia/stos.h
+        src/struktury/tablica/tablica.h
+        src/struktury/tablica/tablica.hpp
+        src/struktury/object.h
+        src/struktury/vertex.h
+        src/badanie_alg_sort-drzewa.hpp
+        src/badanie_alg_sort-std.hpp
+        src/control.h
+        src/control_drzewa.h
+        src/control_sort-std.h
+        src/main.cpp
+        makefile)

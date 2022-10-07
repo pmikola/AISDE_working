@@ -1,0 +1,298 @@
+******************************************* NEW ANALYSIS ***********************************
+
+************************
+
+
+************************
+
+Algorytm: 
+   porownania: 1
+   kopiowania: 0
+Implementacja: 
+   porownania: 7
+   dodawania:  5
+   mnozenia:   0
+   dzielenia:  1
+   Czas wykonania:                            2e-06
+   LICZNOSC:                                  2
+   ITERACJA:                                  0
+
+************************
+
+
+************************
+
+Algorytm: 
+   porownania: 7
+   kopiowania: 0
+Implementacja: 
+   porownania: 28
+   dodawania:  26
+   mnozenia:   0
+   dzielenia:  5
+   Czas wykonania:                            3e-06
+   LICZNOSC:                                  4
+   ITERACJA:                                  1
+
+************************
+
+
+************************
+
+Algorytm: 
+   porownania: 33
+   kopiowania: 0
+Implementacja: 
+   porownania: 94
+   dodawania:  102
+   mnozenia:   0
+   dzielenia:  17
+   Czas wykonania:                            3e-06
+   LICZNOSC:                                  8
+   ITERACJA:                                  2
+
+************************
+
+
+************************
+
+Algorytm: 
+   porownania: 137
+   kopiowania: 0
+Implementacja: 
+   porownania: 298
+   dodawania:  370
+   mnozenia:   0
+   dzielenia:  49
+   Czas wykonania:                            7e-06
+   LICZNOSC:                                  16
+   ITERACJA:                                  3
+
+************************
+
+
+************************
+
+Algorytm: 
+   porownania: 545
+   kopiowania: 0
+Implementacja: 
+   porownania: 946
+   dodawania:  1330
+   mnozenia:   0
+   dzielenia:  129
+   Czas wykonania:                            2.1e-05
+   LICZNOSC:                                  32
+   ITERACJA:                                  4
+
+************************
+
+
+************************
+
+Algorytm: 
+   porownania: 2145
+   kopiowania: 0
+Implementacja: 
+   porownania: 3106
+   dodawania:  4866
+   mnozenia:   0
+   dzielenia:  321
+   Czas wykonania:                            8e-05
+   LICZNOSC:                                  64
+   ITERACJA:                                  5
+
+************************
+
+
+************************
+
+Algorytm: 
+   porownania: 8449
+   kopiowania: 0
+Implementacja: 
+   porownania: 10690
+   dodawania:  18242
+   mnozenia:   0
+   dzielenia:  769
+   Czas wykonania:                            0.000283
+   LICZNOSC:                                  128
+   ITERACJA:                                  6
+
+************************
+
+
+************************
+
+Algorytm: 
+   porownania: 33409
+   kopiowania: 0
+Implementacja: 
+   porownania: 38530
+   dodawania:  69890
+   mnozenia:   0
+   dzielenia:  1793
+   Czas wykonania:                            0.00097
+   LICZNOSC:                                  256
+   ITERACJA:                                  7
+
+************************
+
+
+************************
+
+Algorytm: 
+   porownania: 132609
+   kopiowania: 0
+Implementacja: 
+   porownania: 144130
+   dodawania:  272130
+   mnozenia:   0
+   dzielenia:  4097
+   Czas wykonania:                            0.003586
+   LICZNOSC:                                  512
+   ITERACJA:                                  8
+
+************************
+
+
+************************
+
+Algorytm: 
+   porownania: 527873
+   kopiowania: 0
+Implementacja: 
+   porownania: 553474
+   dodawania:  1071106
+   mnozenia:   0
+   dzielenia:  9217
+   Czas wykonania:                            0.014627
+   LICZNOSC:                                  1024
+   ITERACJA:                                  9
+
+************************
+
+
+************************
+
+Algorytm: 
+   porownania: 2105345
+   kopiowania: 0
+Implementacja: 
+   porownania: 2161666
+   dodawania:  4244482
+   mnozenia:   0
+   dzielenia:  20481
+   Czas wykonania:                            0.055418
+   LICZNOSC:                                  2048
+   ITERACJA:                                  10
+
+************************
+
+
+************************
+
+Algorytm: 
+   porownania: 8407041
+   kopiowania: 0
+Implementacja: 
+   porownania: 8529922
+   dodawania:  16887810
+   mnozenia:   0
+   dzielenia:  45057
+   Czas wykonania:                            0.230779
+   LICZNOSC:                                  4096
+   ITERACJA:                                  11
+
+************************
+
+
+************************
+
+Algorytm: 
+   porownania: 33595393
+   kopiowania: 0
+Implementacja: 
+   porownania: 33861634
+   dodawania:  67350530
+   mnozenia:   0
+   dzielenia:  98305
+   Czas wykonania:                            0.868582
+   LICZNOSC:                                  8192
+   ITERACJA:                                  12
+
+************************
+
+
+************************
+
+Algorytm: 
+   porownania: 134307841
+   kopiowania: 0
+Implementacja: 
+   porownania: 134881282
+   dodawania:  268959746
+   mnozenia:   0
+   dzielenia:  212993
+   Czas wykonania:                            3.40474
+   LICZNOSC:                                  16384
+   ITERACJA:                                  13
+
+************************
+
+
+************************
+
+Algorytm: 
+   porownania: 537067521
+   kopiowania: 0
+Implementacja: 
+   porownania: 538296322
+   dodawania:  1074872322
+   mnozenia:   0
+   dzielenia:  458753
+   Czas wykonania:                            13.4906
+   LICZNOSC:                                  32768
+   ITERACJA:                                  14
+
+************************
+
+
+************************
+
+Algorytm: 
+   porownania: 2147909633
+   kopiowania: 0
+Implementacja: 
+   porownania: 2150531074
+   dodawania:  4297392130
+   mnozenia:   0
+   dzielenia:  983041
+   Czas wykonania:                            54.2183
+   LICZNOSC:                                  65536
+   ITERACJA:                                  15
+
+************************
+
+
+************************
+
+Algorytm: 
+   porownania: 8590852097
+   kopiowania: 0
+Implementacja: 
+   porownania: 8596422658
+   dodawania:  17185046530
+   mnozenia:   0
+   dzielenia:  2097153
+   Czas wykonania:                            219.093
+   LICZNOSC:                                  131072
+   ITERACJA:                                  16
+
+************************
+
+
+************************
+
+
+

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Cwicz23"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Cwicz23">
+				<Option output="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug/Cwicz23.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_drzewa"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_drzewa/bst"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_drzewa/huffman"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_drzewa/sortowanie_kopcowe"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_drzewa/sortowanie_turniejowe"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/babelkowe"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/scalanie"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/selekcja"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/shell"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/szybkie"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/wstawianie"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/zliczanie"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/narzedzia"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/struktury"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/struktury/tablica"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cwicz23"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Cwicz23/fast">
+				<Option output="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug/Cwicz23.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_drzewa"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_drzewa/bst"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_drzewa/huffman"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_drzewa/sortowanie_kopcowe"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_drzewa/sortowanie_turniejowe"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/babelkowe"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/scalanie"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/selekcja"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/shell"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/szybkie"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/wstawianie"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/zliczanie"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/narzedzia"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/struktury"/>
+					<Add directory="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/struktury/tablica"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cwicz23/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/makefile">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_drzewa/bst/bst.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_drzewa/huffman/huffman.cpp">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_drzewa/huffman/huffman.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_drzewa/huffman/huffmanData.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_drzewa/sortowanie_kopcowe/kopiec.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_drzewa/sortowanie_kopcowe/kopiec.hpp">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_drzewa/sortowanie_kopcowe/kopiecINT.cpp">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_drzewa/sortowanie_turniejowe/turniej.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_drzewa/sortowanie_turniejowe/turniej.hpp">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/babelkowe/babelkowe.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/babelkowe/babelkowe.hpp">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/scalanie/scalanie.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/scalanie/scalanie.hpp">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/selekcja/selekcja.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/selekcja/selekcja.hpp">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/shell/generator.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/shell/wstawianieShell.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/shell/wstawianieShell.hpp">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/sortowanie.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/sortowanie.hpp">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/szybkie/szybkie.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/szybkie/szybkie.hpp">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/wstawianie/wstawianie.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/wstawianie/wstawianie.hpp">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/zliczanie/zliczanie.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/algorytmy_sort_std/zliczanie/zliczanie.hpp">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/badanie_alg_sort-drzewa.hpp">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/badanie_alg_sort-std.hpp">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/control.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/control_drzewa.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/control_sort-std.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/main.cpp">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/narzedzia/error.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/narzedzia/iterator.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/narzedzia/statystyka.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/narzedzia/stos.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/struktury/object.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/struktury/tablica/tablica.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/struktury/tablica/tablica.hpp">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/src/struktury/vertex.h">
+			<Option target="Cwicz23"/>
+		</Unit>
+		<Unit filename="E:/MGR MATERIALY + PRACA MGR/3 SEMESTR/AISDE/aisde_l2/Cwicz23/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
